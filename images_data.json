@@ -8,7 +8,7 @@
             3024
         ],
         "type": "image",
-        "description": "",
+        "description": "Leather phone case with wallet",
         "thumbnail": "images/thumbnails/IMG_0346.jpg",
         "thumbnail_size": [
             214,
@@ -24,7 +24,7 @@
             3024
         ],
         "type": "image",
-        "description": "",
+        "description": "My daughter's door decoration",
         "thumbnail": "images/thumbnails/IMG_1564.jpg",
         "thumbnail_size": [
             214,
@@ -40,7 +40,7 @@
             3024
         ],
         "type": "image",
-        "description": "",
+        "description": "A circular slide rule for my Glowforge",
         "thumbnail": "images/thumbnails/IMG_1567.jpg",
         "thumbnail_size": [
             214,
@@ -56,7 +56,7 @@
             3024
         ],
         "type": "image",
-        "description": "",
+        "description": "A large riser to display my amiibo",
         "thumbnail": "images/thumbnails/IMG_1571.jpg",
         "thumbnail_size": [
             214,
@@ -72,7 +72,7 @@
             3024
         ],
         "type": "image",
-        "description": "",
+        "description": "A smaller riser to display my amiibo",
         "thumbnail": "images/thumbnails/IMG_1572.jpg",
         "thumbnail_size": [
             214,
@@ -88,7 +88,7 @@
             4032
         ],
         "type": "image",
-        "description": "",
+        "description": "A do no disturb sign",
         "thumbnail": "images/thumbnails/IMG_1574.jpg",
         "thumbnail_size": [
             120,
@@ -104,7 +104,7 @@
             3024
         ],
         "type": "image",
-        "description": "",
+        "description": "A greeting card unfolded",
         "thumbnail": "images/thumbnails/IMG_2020.jpg",
         "thumbnail_size": [
             214,
@@ -120,7 +120,7 @@
             3024
         ],
         "type": "image",
-        "description": "",
+        "description": "A greeting card folded",
         "thumbnail": "images/thumbnails/IMG_2021.jpg",
         "thumbnail_size": [
             214,
@@ -136,7 +136,7 @@
             4032
         ],
         "type": "image",
-        "description": "",
+        "description": "A hexagonal amiibo trophy stand",
         "thumbnail": "images/thumbnails/IMG_2160.jpg",
         "thumbnail_size": [
             120,
@@ -152,10 +152,26 @@
             4032
         ],
         "type": "image",
-        "description": "",
+        "description": "A square amiibo trophy stand",
         "thumbnail": "images/thumbnails/IMG_2163.jpg",
         "thumbnail_size": [
             120,
+            160
+        ]
+    },
+    "IMG_9393.jpg": {
+        "src": "images/photos/IMG_9393.jpg",
+        "mtime": 1646197842.4182103,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Nintendo Switch stand with Hyrule crest cutout",
+        "thumbnail": "images/thumbnails/IMG_9393.jpg",
+        "thumbnail_size": [
+            214,
             160
         ]
     },
@@ -168,7 +184,7 @@
             3024
         ],
         "type": "image",
-        "description": "",
+        "description": "Acrylic stand for my OLED Switch",
         "thumbnail": "images/thumbnails/IMG_2264.jpg",
         "thumbnail_size": [
             214,
@@ -184,7 +200,7 @@
             3024
         ],
         "type": "image",
-        "description": "",
+        "description": "An ear bud holder designed to look like a Nintendo Switch",
         "thumbnail": "images/thumbnails/IMG_2267.jpg",
         "thumbnail_size": [
             214,
@@ -200,7 +216,7 @@
             4032
         ],
         "type": "image",
-        "description": "",
+        "description": "A blue, translucent butterfly",
         "thumbnail": "images/thumbnails/IMG_2322.jpg",
         "thumbnail_size": [
             120,
@@ -216,7 +232,7 @@
             4032
         ],
         "type": "image",
-        "description": "",
+        "description": "A pink, translucent butterfly",
         "thumbnail": "images/thumbnails/IMG_2323.jpg",
         "thumbnail_size": [
             120,
@@ -232,7 +248,7 @@
             4032
         ],
         "type": "image",
-        "description": "",
+        "description": "A translucent rupee",
         "thumbnail": "images/thumbnails/IMG_2369.jpg",
         "thumbnail_size": [
             120,
@@ -248,7 +264,7 @@
             3024
         ],
         "type": "image",
-        "description": "",
+        "description": "A simple box",
         "thumbnail": "images/thumbnails/IMG_6631.jpg",
         "thumbnail_size": [
             214,
@@ -264,7 +280,7 @@
             3024
         ],
         "type": "image",
-        "description": "",
+        "description": "Plan of Salvation plaque",
         "thumbnail": "images/thumbnails/IMG_6649.jpg",
         "thumbnail_size": [
             214,
@@ -280,7 +296,7 @@
             3024
         ],
         "type": "image",
-        "description": "",
+        "description": "Black leather wallet open",
         "thumbnail": "images/thumbnails/IMG_6807.jpg",
         "thumbnail_size": [
             214,
@@ -296,7 +312,7 @@
             4032
         ],
         "type": "image",
-        "description": "",
+        "description": "Leather rupee bag",
         "thumbnail": "images/thumbnails/IMG_6808.jpg",
         "thumbnail_size": [
             120,
@@ -312,7 +328,7 @@
             4032
         ],
         "type": "image",
-        "description": "",
+        "description": "Brown leather wallet closed",
         "thumbnail": "images/thumbnails/IMG_6810.jpg",
         "thumbnail_size": [
             120,
@@ -328,7 +344,7 @@
             3024
         ],
         "type": "image",
-        "description": "",
+        "description": "Simple amiibo plaque",
         "thumbnail": "images/thumbnails/IMG_7279.jpg",
         "thumbnail_size": [
             214,
@@ -344,7 +360,7 @@
             4032
         ],
         "type": "image",
-        "description": "",
+        "description": "Tie hanger",
         "thumbnail": "images/thumbnails/IMG_7530.jpg",
         "thumbnail_size": [
             120,
@@ -360,7 +376,7 @@
             3024
         ],
         "type": "image",
-        "description": "",
+        "description": "Super Smash Bros. character tokens",
         "thumbnail": "images/thumbnails/IMG_7663.jpg",
         "thumbnail_size": [
             214,
@@ -376,7 +392,7 @@
             3024
         ],
         "type": "image",
-        "description": "",
+        "description": "Book holder with lightweaver and willshaper engravings",
         "thumbnail": "images/thumbnails/IMG_8132.jpg",
         "thumbnail_size": [
             214,
@@ -392,7 +408,7 @@
             4032
         ],
         "type": "image",
-        "description": "",
+        "description": "Christmas ornament 2020",
         "thumbnail": "images/thumbnails/IMG_8151.jpg",
         "thumbnail_size": [
             120,
@@ -408,7 +424,7 @@
             4032
         ],
         "type": "image",
-        "description": "",
+        "description": "Nativity Christmas ornament",
         "thumbnail": "images/thumbnails/IMG_8242.jpg",
         "thumbnail_size": [
             120,
@@ -424,7 +440,7 @@
             4032
         ],
         "type": "image",
-        "description": "",
+        "description": "Space shuttle Discovery",
         "thumbnail": "images/thumbnails/IMG_8278.jpg",
         "thumbnail_size": [
             120,
@@ -440,7 +456,7 @@
             3024
         ],
         "type": "image",
-        "description": "",
+        "description": "Space shuttle Discovery assembled next to bag unassabled pieces",
         "thumbnail": "images/thumbnails/IMG_8286.jpg",
         "thumbnail_size": [
             214,
@@ -456,7 +472,7 @@
             3024
         ],
         "type": "image",
-        "description": "",
+        "description": "Pencil holder",
         "thumbnail": "images/thumbnails/IMG_8339.jpg",
         "thumbnail_size": [
             214,
@@ -472,7 +488,7 @@
             3024
         ],
         "type": "image",
-        "description": "",
+        "description": "Shape and lines stencil",
         "thumbnail": "images/thumbnails/IMG_8898.jpg",
         "thumbnail_size": [
             214,
@@ -488,7 +504,7 @@
             3024
         ],
         "type": "image",
-        "description": "",
+        "description": "Stencil with drawings",
         "thumbnail": "images/thumbnails/IMG_8899.jpg",
         "thumbnail_size": [
             214,
@@ -504,7 +520,7 @@
             3024
         ],
         "type": "image",
-        "description": "",
+        "description": "Personalized napkin holder",
         "thumbnail": "images/thumbnails/IMG_8983.jpg",
         "thumbnail_size": [
             214,
@@ -520,7 +536,7 @@
             3024
         ],
         "type": "image",
-        "description": "",
+        "description": "Playing card box closed",
         "thumbnail": "images/thumbnails/IMG_9092.jpg",
         "thumbnail_size": [
             214,
@@ -536,24 +552,8 @@
             3024
         ],
         "type": "image",
-        "description": "",
+        "description": "Playing card box open",
         "thumbnail": "images/thumbnails/IMG_9093.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "IMG_9393.jpg": {
-        "src": "images/photos/IMG_9393.jpg",
-        "mtime": 1646197842.4182103,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "",
-        "thumbnail": "images/thumbnails/IMG_9393.jpg",
         "thumbnail_size": [
             214,
             160
@@ -568,7 +568,7 @@
             3024
         ],
         "type": "image",
-        "description": "",
+        "description": "Paint brush holder",
         "thumbnail": "images/thumbnails/IMG_9497.jpg",
         "thumbnail_size": [
             214,
@@ -584,7 +584,7 @@
             4032
         ],
         "type": "image",
-        "description": "",
+        "description": "Paint brush holder with brushes",
         "thumbnail": "images/thumbnails/IMG_9498.jpg",
         "thumbnail_size": [
             120,
@@ -600,7 +600,7 @@
             3024
         ],
         "type": "image",
-        "description": "",
+        "description": "Dominion token tray empty",
         "thumbnail": "images/thumbnails/IMG_9533.jpg",
         "thumbnail_size": [
             214,
@@ -616,7 +616,7 @@
             3024
         ],
         "type": "image",
-        "description": "",
+        "description": "Dominion token tray filled",
         "thumbnail": "images/thumbnails/IMG_9534.jpg",
         "thumbnail_size": [
             214,
@@ -632,7 +632,7 @@
             3024
         ],
         "type": "image",
-        "description": "",
+        "description": "Dominion box front art",
         "thumbnail": "images/thumbnails/IMG_9590.jpg",
         "thumbnail_size": [
             214,
@@ -648,7 +648,7 @@
             3024
         ],
         "type": "image",
-        "description": "",
+        "description": "Dominion box open",
         "thumbnail": "images/thumbnails/IMG_9599.jpg",
         "thumbnail_size": [
             214,
@@ -664,10 +664,26 @@
             4032
         ],
         "type": "image",
-        "description": "",
+        "description": "Dominon boxes spine art",
         "thumbnail": "images/thumbnails/IMG_9641.jpg",
         "thumbnail_size": [
             120,
+            160
+        ]
+    },
+    "IMG_2450.jpg": {
+        "src": "images/photos/IMG_2450.jpg",
+        "mtime": 1646202214.8545198,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Engraved metal business cards",
+        "thumbnail": "images/thumbnails/IMG_2450.jpg",
+        "thumbnail_size": [
+            214,
             160
         ]
     }
