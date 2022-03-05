@@ -97,14 +97,14 @@
     },
     "acrylic_2466.jpg": {
         "src": "images/photos/acrylic_2466.jpg",
-        "mtime": 1646447381.356754,
+        "mtime": 1646447381.0,
         "date": "",
         "size": [
             4032,
             3024
         ],
         "type": "image",
-        "description": "Acrylic unicorn with wings",
+        "description": "",
         "thumbnail": "images/thumbnails/acrylic_2466.jpg",
         "thumbnail_size": [
             214,
@@ -337,15 +337,31 @@
     },
     "paper_9121.jpg": {
         "src": "images/photos/paper_9121.jpg",
-        "mtime": 1646447382.2598271,
+        "mtime": 1646447382.0,
         "date": "",
         "size": [
             4032,
             3024
         ],
         "type": "image",
-        "description": "Cardstock shadow puppets",
+        "description": "",
         "thumbnail": "images/thumbnails/paper_9121.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "paper_2486.jpg": {
+        "src": "images/photos/paper_2486.jpg",
+        "mtime": 1646516095.299949,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "",
+        "thumbnail": "images/thumbnails/paper_2486.jpg",
         "thumbnail_size": [
             214,
             160
@@ -545,14 +561,14 @@
     },
     "wood_2480.jpg": {
         "src": "images/photos/wood_2480.jpg",
-        "mtime": 1646447381.7900288,
+        "mtime": 1646447381.0,
         "date": "",
         "size": [
             4032,
             3024
         ],
         "type": "image",
-        "description": "Wood T-Rex",
+        "description": "",
         "thumbnail": "images/thumbnails/wood_2480.jpg",
         "thumbnail_size": [
             214,
@@ -737,14 +753,14 @@
     },
     "IMG_2481.jpg": {
         "src": "images/photos/IMG_2481.jpg",
-        "mtime": 1646448579.7688766,
+        "mtime": 1646448579.0,
         "date": "",
         "size": [
             4032,
             3024
         ],
         "type": "image",
-        "description": "Felt quiet book",
+        "description": "",
         "thumbnail": "images/thumbnails/IMG_2481.jpg",
         "thumbnail_size": [
             214,
