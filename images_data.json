@@ -33,7 +33,7 @@
     },
     "acrylic_2322.jpg": {
         "src": "images/photos/acrylic_2322.jpg",
-        "mtime": 1646198876.3388238,
+        "mtime": 1646198876.0,
         "date": "",
         "size": [
             3024,
@@ -92,6 +92,22 @@
         "thumbnail": "images/thumbnails/acrylic_7530.jpg",
         "thumbnail_size": [
             120,
+            160
+        ]
+    },
+    "acrylic_2466.jpg": {
+        "src": "images/photos/acrylic_2466.jpg",
+        "mtime": 1646447381.356754,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Acrylic unicorn with wings",
+        "thumbnail": "images/thumbnails/acrylic_2466.jpg",
+        "thumbnail_size": [
+            214,
             160
         ]
     },
@@ -257,7 +273,7 @@
     },
     "paper_1564.jpg": {
         "src": "images/photos/paper_1564.jpg",
-        "mtime": 1646198875.407938,
+        "mtime": 1646198875.0,
         "date": "",
         "size": [
             4032,
@@ -289,7 +305,7 @@
     },
     "paper_2020.jpg": {
         "src": "images/photos/paper_2020.jpg",
-        "mtime": 1646198876.8427987,
+        "mtime": 1646198876.0,
         "date": "",
         "size": [
             4032,
@@ -319,17 +335,17 @@
             160
         ]
     },
-    "wood_1567.jpg": {
-        "src": "images/photos/wood_1567.jpg",
-        "mtime": 1646197777.0,
+    "paper_9121.jpg": {
+        "src": "images/photos/paper_9121.jpg",
+        "mtime": 1646447382.2598271,
         "date": "",
         "size": [
             4032,
             3024
         ],
         "type": "image",
-        "description": "A circular slide rule for my Glowforge",
-        "thumbnail": "images/thumbnails/wood_1567.jpg",
+        "description": "Cardstock shadow puppets",
+        "thumbnail": "images/thumbnails/paper_9121.jpg",
         "thumbnail_size": [
             214,
             160
@@ -394,6 +410,22 @@
         "type": "image",
         "description": "A simple box",
         "thumbnail": "images/thumbnails/wood_6631.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "wood_1567.jpg": {
+        "src": "images/photos/wood_1567.jpg",
+        "mtime": 1646197777.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "A circular slide rule for my Glowforge",
+        "thumbnail": "images/thumbnails/wood_1567.jpg",
         "thumbnail_size": [
             214,
             160
@@ -511,6 +543,22 @@
             160
         ]
     },
+    "wood_2480.jpg": {
+        "src": "images/photos/wood_2480.jpg",
+        "mtime": 1646447381.7900288,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Wood T-Rex",
+        "thumbnail": "images/thumbnails/wood_2480.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
     "wood_8339.jpg": {
         "src": "images/photos/wood_8339.jpg",
         "mtime": 1646197839.0,
@@ -545,7 +593,7 @@
     },
     "wood_8899.jpg": {
         "src": "images/photos/wood_8899.jpg",
-        "mtime": 1646198877.7424176,
+        "mtime": 1646198877.0,
         "date": "",
         "size": [
             4032,
@@ -641,7 +689,7 @@
     },
     "wood_9599.jpg": {
         "src": "images/photos/wood_9599.jpg",
-        "mtime": 1646197845.4995248,
+        "mtime": 1646197845.0,
         "date": "",
         "size": [
             4032,
@@ -657,7 +705,7 @@
     },
     "wood_9641.jpg": {
         "src": "images/photos/wood_9641.jpg",
-        "mtime": 1646197846.0909297,
+        "mtime": 1646197846.0,
         "date": "",
         "size": [
             3024,
@@ -673,7 +721,7 @@
     },
     "IMG_2450.jpg": {
         "src": "images/photos/IMG_2450.jpg",
-        "mtime": 1646202214.8545198,
+        "mtime": 1646202214.0,
         "date": "",
         "size": [
             4032,
@@ -682,6 +730,22 @@
         "type": "image",
         "description": "Engraved metal business cards",
         "thumbnail": "images/thumbnails/IMG_2450.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "IMG_2481.jpg": {
+        "src": "images/photos/IMG_2481.jpg",
+        "mtime": 1646448579.7688766,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Felt quiet book",
+        "thumbnail": "images/thumbnails/IMG_2481.jpg",
         "thumbnail_size": [
             214,
             160
