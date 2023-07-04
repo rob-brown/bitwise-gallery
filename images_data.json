@@ -766,5 +766,293 @@
             214,
             160
         ]
+    },
+    "IMG_1698.jpg": {
+        "src": "images/photos/IMG_1698.jpg",
+        "mtime": 1688438126.476887,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Laser-cut gamepad",
+        "thumbnail": "images/thumbnails/IMG_1698.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "IMG_2376.jpg": {
+        "src": "images/photos/IMG_2376.jpg",
+        "mtime": 1688438127.140025,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Laser-marked coins of brass, zinc, and copper",
+        "thumbnail": "images/thumbnails/IMG_2376.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "acrylic_0722.jpg": {
+        "src": "images/photos/acrylic_0722.jpg",
+        "mtime": 1688438126.1138964,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Quilting ruler made of fluorescent green acrylic",
+        "thumbnail": "images/thumbnails/acrylic_0722.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "acrylic_0730.jpg": {
+        "src": "images/photos/acrylic_0730.jpg",
+        "mtime": 1688438126.2053802,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Fibonacci spiral in fluorescent green acrylic",
+        "thumbnail": "images/thumbnails/acrylic_0730.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "acrylic_1200.jpg": {
+        "src": "images/photos/acrylic_1200.jpg",
+        "mtime": 1688438126.40369,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Laser-cut quilting ruler made of fluorescent acrylic",
+        "thumbnail": "images/thumbnails/acrylic_1200.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "acrylic_2142.jpg": {
+        "src": "images/photos/acrylic_2142.jpg",
+        "mtime": 1688438126.5416896,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Laser-cut mailbox numbers",
+        "thumbnail": "images/thumbnails/acrylic_2142.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "acrylic_2234.jpg": {
+        "src": "images/photos/acrylic_2234.jpg",
+        "mtime": 1688438199.8088753,
+        "date": "",
+        "size": [
+            3691,
+            2076
+        ],
+        "type": "image",
+        "description": "Laser-cut mirrored acrylic samples",
+        "thumbnail": "images/thumbnails/acrylic_2234.jpg",
+        "thumbnail_size": [
+            284,
+            160
+        ]
+    },
+    "acrylic_2235.jpg": {
+        "src": "images/photos/acrylic_2235.jpg",
+        "mtime": 1688438126.6429982,
+        "date": "",
+        "size": [
+            3796,
+            2135
+        ],
+        "type": "image",
+        "description": "Laser-cut mirrored acrylic samples",
+        "thumbnail": "images/thumbnails/acrylic_2235.jpg",
+        "thumbnail_size": [
+            284,
+            160
+        ]
+    },
+    "acrylic_2240.jpg": {
+        "src": "images/photos/acrylic_2240.jpg",
+        "mtime": 1688438126.7180529,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Laser-cut clear acrylic samples",
+        "thumbnail": "images/thumbnails/acrylic_2240.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "acrylic_2242.jpg": {
+        "src": "images/photos/acrylic_2242.jpg",
+        "mtime": 1688438126.7873452,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Laser-cut acrylic samples",
+        "thumbnail": "images/thumbnails/acrylic_2242.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "acrylic_2243.jpg": {
+        "src": "images/photos/acrylic_2243.jpg",
+        "mtime": 1688438126.8781385,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Monochromatic laser-cut acrylic samples",
+        "thumbnail": "images/thumbnails/acrylic_2243.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "leather_2394.jpg": {
+        "src": "images/photos/leather_2394.jpg",
+        "mtime": 1688438127.2701347,
+        "date": "",
+        "size": [
+            4032,
+            2268
+        ],
+        "type": "image",
+        "description": "Laser-cut leather samples",
+        "thumbnail": "images/thumbnails/leather_2394.jpg",
+        "thumbnail_size": [
+            284,
+            160
+        ]
+    },
+    "wood_0472.jpg": {
+        "src": "images/photos/wood_0472.jpg",
+        "mtime": 1688438126.0098667,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Cherry plywood display riser",
+        "thumbnail": "images/thumbnails/wood_0472.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "wood_0968.jpg": {
+        "src": "images/photos/wood_0968.jpg",
+        "mtime": 1688438126.2971685,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Wooden puzzle box with walnut, cherry, and maple wood",
+        "thumbnail": "images/thumbnails/wood_0968.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "wood_2278.jpg": {
+        "src": "images/photos/wood_2278.jpg",
+        "mtime": 1688438126.971248,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Laser-cut sample box",
+        "thumbnail": "images/thumbnails/wood_2278.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "wood_2279.jpg": {
+        "src": "images/photos/wood_2279.jpg",
+        "mtime": 1688438127.0517592,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Laser-cut samples",
+        "thumbnail": "images/thumbnails/wood_2279.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "wood_2390.jpg": {
+        "src": "images/photos/wood_2390.jpg",
+        "mtime": 1688438127.2132726,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Laser-cut wood samples",
+        "thumbnail": "images/thumbnails/wood_2390.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "wood_2400.jpg": {
+        "src": "images/photos/wood_2400.jpg",
+        "mtime": 1688438127.3445294,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Maple wood box with lid",
+        "thumbnail": "images/thumbnails/wood_2400.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
     }
 }
