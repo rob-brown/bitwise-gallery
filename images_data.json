@@ -1,807 +1,7 @@
 {
-    "acrylic_9393.jpg": {
-        "src": "images/photos/acrylic_9393.jpg",
-        "mtime": 1646197842.0,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "Nintendo Switch stand with Hyrule crest cutout",
-        "thumbnail": "images/thumbnails/acrylic_9393.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "acrylic_2264.jpg": {
-        "src": "images/photos/acrylic_2264.jpg",
-        "mtime": 1646197824.8068998,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "Acrylic stand for my OLED Switch",
-        "thumbnail": "images/thumbnails/acrylic_2264.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "acrylic_2322.jpg": {
-        "src": "images/photos/acrylic_2322.jpg",
-        "mtime": 1646198876.0,
-        "date": "",
-        "size": [
-            3024,
-            4032
-        ],
-        "type": "image",
-        "description": "A blue, translucent butterfly",
-        "thumbnail": "images/thumbnails/acrylic_2322.jpg",
-        "thumbnail_size": [
-            120,
-            160
-        ]
-    },
-    "acrylic_2323.jpg": {
-        "src": "images/photos/acrylic_2323.jpg",
-        "mtime": 1646197825.0,
-        "date": "",
-        "size": [
-            3024,
-            4032
-        ],
-        "type": "image",
-        "description": "A pink, translucent butterfly",
-        "thumbnail": "images/thumbnails/acrylic_2323.jpg",
-        "thumbnail_size": [
-            120,
-            160
-        ]
-    },
-    "acrylic_2369.jpg": {
-        "src": "images/photos/acrylic_2369.jpg",
-        "mtime": 1646197826.0,
-        "date": "",
-        "size": [
-            3024,
-            4032
-        ],
-        "type": "image",
-        "description": "A translucent rupee",
-        "thumbnail": "images/thumbnails/acrylic_2369.jpg",
-        "thumbnail_size": [
-            120,
-            160
-        ]
-    },
-    "acrylic_7530.jpg": {
-        "src": "images/photos/acrylic_7530.jpg",
-        "mtime": 1646197835.6306765,
-        "date": "",
-        "size": [
-            3024,
-            4032
-        ],
-        "type": "image",
-        "description": "Acrylic tie hanger",
-        "thumbnail": "images/thumbnails/acrylic_7530.jpg",
-        "thumbnail_size": [
-            120,
-            160
-        ]
-    },
-    "acrylic_2466.jpg": {
-        "src": "images/photos/acrylic_2466.jpg",
-        "mtime": 1646447381.0,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "",
-        "thumbnail": "images/thumbnails/acrylic_2466.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "leather_0346.jpg": {
-        "src": "images/photos/leather_0346.jpg",
-        "mtime": 1646197760.0,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "Leather phone case with wallet",
-        "thumbnail": "images/thumbnails/leather_0346.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "leather_6807.jpg": {
-        "src": "images/photos/leather_6807.jpg",
-        "mtime": 1646197827.0,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "Black leather wallet open",
-        "thumbnail": "images/thumbnails/leather_6807.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "leather_6808.jpg": {
-        "src": "images/photos/leather_6808.jpg",
-        "mtime": 1646197828.0,
-        "date": "",
-        "size": [
-            3024,
-            4032
-        ],
-        "type": "image",
-        "description": "Leather rupee bag",
-        "thumbnail": "images/thumbnails/leather_6808.jpg",
-        "thumbnail_size": [
-            120,
-            160
-        ]
-    },
-    "leather_6810.jpg": {
-        "src": "images/photos/leather_6810.jpg",
-        "mtime": 1646197829.274334,
-        "date": "",
-        "size": [
-            3024,
-            4032
-        ],
-        "type": "image",
-        "description": "Brown leather wallet closed",
-        "thumbnail": "images/thumbnails/leather_6810.jpg",
-        "thumbnail_size": [
-            120,
-            160
-        ]
-    },
-    "mixed_2160.jpg": {
-        "src": "images/photos/mixed_2160.jpg",
-        "mtime": 1646197823.0,
-        "date": "",
-        "size": [
-            3024,
-            4032
-        ],
-        "type": "image",
-        "description": "A hexagonal amiibo trophy stand",
-        "thumbnail": "images/thumbnails/mixed_2160.jpg",
-        "thumbnail_size": [
-            120,
-            160
-        ]
-    },
-    "mixed_2163.jpg": {
-        "src": "images/photos/mixed_2163.jpg",
-        "mtime": 1646197824.0,
-        "date": "",
-        "size": [
-            3024,
-            4032
-        ],
-        "type": "image",
-        "description": "A square amiibo trophy stand",
-        "thumbnail": "images/thumbnails/mixed_2163.jpg",
-        "thumbnail_size": [
-            120,
-            160
-        ]
-    },
-    "mixed_8151.jpg": {
-        "src": "images/photos/mixed_8151.jpg",
-        "mtime": 1646197837.0,
-        "date": "",
-        "size": [
-            3024,
-            4032
-        ],
-        "type": "image",
-        "description": "Christmas ornament 2020",
-        "thumbnail": "images/thumbnails/mixed_8151.jpg",
-        "thumbnail_size": [
-            120,
-            160
-        ]
-    },
-    "mixed_8983.jpg": {
-        "src": "images/photos/mixed_8983.jpg",
-        "mtime": 1646197840.0,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "Personalized napkin holder",
-        "thumbnail": "images/thumbnails/mixed_8983.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "mixed_9497.jpg": {
-        "src": "images/photos/mixed_9497.jpg",
-        "mtime": 1646197842.8599815,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "Paint brush holder",
-        "thumbnail": "images/thumbnails/mixed_9497.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "mixed_9498.jpg": {
-        "src": "images/photos/mixed_9498.jpg",
-        "mtime": 1646197843.0,
-        "date": "",
-        "size": [
-            3024,
-            4032
-        ],
-        "type": "image",
-        "description": "Paint brush holder with brushes",
-        "thumbnail": "images/thumbnails/mixed_9498.jpg",
-        "thumbnail_size": [
-            120,
-            160
-        ]
-    },
-    "paper_1564.jpg": {
-        "src": "images/photos/paper_1564.jpg",
-        "mtime": 1646198875.0,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "My daughter's door decoration",
-        "thumbnail": "images/thumbnails/paper_1564.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "paper_1574.jpg": {
-        "src": "images/photos/paper_1574.jpg",
-        "mtime": 1646198875.8529806,
-        "date": "",
-        "size": [
-            3024,
-            4032
-        ],
-        "type": "image",
-        "description": "A do no disturb sign",
-        "thumbnail": "images/thumbnails/paper_1574.jpg",
-        "thumbnail_size": [
-            120,
-            160
-        ]
-    },
-    "paper_2020.jpg": {
-        "src": "images/photos/paper_2020.jpg",
-        "mtime": 1646198876.0,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "A greeting card unfolded",
-        "thumbnail": "images/thumbnails/paper_2020.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "paper_2021.jpg": {
-        "src": "images/photos/paper_2021.jpg",
-        "mtime": 1646198877.2791069,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "A greeting card folded",
-        "thumbnail": "images/thumbnails/paper_2021.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "paper_9121.jpg": {
-        "src": "images/photos/paper_9121.jpg",
-        "mtime": 1646447382.0,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "",
-        "thumbnail": "images/thumbnails/paper_9121.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "paper_2486.jpg": {
-        "src": "images/photos/paper_2486.jpg",
-        "mtime": 1646516095.299949,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "",
-        "thumbnail": "images/thumbnails/paper_2486.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "wood_1571.jpg": {
-        "src": "images/photos/wood_1571.jpg",
-        "mtime": 1646197777.0,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "A large riser to display my amiibo",
-        "thumbnail": "images/thumbnails/wood_1571.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "wood_1572.jpg": {
-        "src": "images/photos/wood_1572.jpg",
-        "mtime": 1646197823.0,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "A smaller riser to display my amiibo",
-        "thumbnail": "images/thumbnails/wood_1572.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "wood_2267.jpg": {
-        "src": "images/photos/wood_2267.jpg",
-        "mtime": 1646197825.0,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "An ear bud holder designed to look like a Nintendo Switch",
-        "thumbnail": "images/thumbnails/wood_2267.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "wood_6631.jpg": {
-        "src": "images/photos/wood_6631.jpg",
-        "mtime": 1646197826.7458897,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "A simple box",
-        "thumbnail": "images/thumbnails/wood_6631.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "wood_1567.jpg": {
-        "src": "images/photos/wood_1567.jpg",
-        "mtime": 1646197777.0,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "A circular slide rule for my Glowforge",
-        "thumbnail": "images/thumbnails/wood_1567.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "wood_6649.jpg": {
-        "src": "images/photos/wood_6649.jpg",
-        "mtime": 1646197827.0,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "Plan of Salvation plaque",
-        "thumbnail": "images/thumbnails/wood_6649.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "wood_7279.jpg": {
-        "src": "images/photos/wood_7279.jpg",
-        "mtime": 1646196989.0,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "Simple amiibo plaque",
-        "thumbnail": "images/thumbnails/wood_7279.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "wood_7663.jpg": {
-        "src": "images/photos/wood_7663.jpg",
-        "mtime": 1646197836.0,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "Super Smash Bros. character tokens",
-        "thumbnail": "images/thumbnails/wood_7663.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "wood_8132.jpg": {
-        "src": "images/photos/wood_8132.jpg",
-        "mtime": 1646197837.0,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "Book holder with lightweaver and willshaper engravings",
-        "thumbnail": "images/thumbnails/wood_8132.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "wood_8242.jpg": {
-        "src": "images/photos/wood_8242.jpg",
-        "mtime": 1646197838.0,
-        "date": "",
-        "size": [
-            3024,
-            4032
-        ],
-        "type": "image",
-        "description": "Nativity Christmas ornament",
-        "thumbnail": "images/thumbnails/wood_8242.jpg",
-        "thumbnail_size": [
-            120,
-            160
-        ]
-    },
-    "wood_8278.jpg": {
-        "src": "images/photos/wood_8278.jpg",
-        "mtime": 1646197838.0,
-        "date": "",
-        "size": [
-            3024,
-            4032
-        ],
-        "type": "image",
-        "description": "Space shuttle Discovery",
-        "thumbnail": "images/thumbnails/wood_8278.jpg",
-        "thumbnail_size": [
-            120,
-            160
-        ]
-    },
-    "wood_8286.jpg": {
-        "src": "images/photos/wood_8286.jpg",
-        "mtime": 1646197839.0,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "Space shuttle Discovery assembled next to bag of unassembled pieces",
-        "thumbnail": "images/thumbnails/wood_8286.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "wood_2480.jpg": {
-        "src": "images/photos/wood_2480.jpg",
-        "mtime": 1646447381.0,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "",
-        "thumbnail": "images/thumbnails/wood_2480.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "wood_8339.jpg": {
-        "src": "images/photos/wood_8339.jpg",
-        "mtime": 1646197839.0,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "Pencil holder",
-        "thumbnail": "images/thumbnails/wood_8339.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "wood_8898.jpg": {
-        "src": "images/photos/wood_8898.jpg",
-        "mtime": 1646197840.0,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "Shape and lines stencil",
-        "thumbnail": "images/thumbnails/wood_8898.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "wood_8899.jpg": {
-        "src": "images/photos/wood_8899.jpg",
-        "mtime": 1646198877.0,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "Stencil with drawings",
-        "thumbnail": "images/thumbnails/wood_8899.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "wood_9092.jpg": {
-        "src": "images/photos/wood_9092.jpg",
-        "mtime": 1646197841.3802297,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "Playing card box closed",
-        "thumbnail": "images/thumbnails/wood_9092.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "wood_9093.jpg": {
-        "src": "images/photos/wood_9093.jpg",
-        "mtime": 1646197841.0,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "Playing card box open",
-        "thumbnail": "images/thumbnails/wood_9093.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "wood_9533.jpg": {
-        "src": "images/photos/wood_9533.jpg",
-        "mtime": 1646197843.0,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "Dominion token tray empty",
-        "thumbnail": "images/thumbnails/wood_9533.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "wood_9534.jpg": {
-        "src": "images/photos/wood_9534.jpg",
-        "mtime": 1646197844.0,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "Dominion token tray filled",
-        "thumbnail": "images/thumbnails/wood_9534.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "wood_9590.jpg": {
-        "src": "images/photos/wood_9590.jpg",
-        "mtime": 1646197844.0,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "Custom Dominion box front art",
-        "thumbnail": "images/thumbnails/wood_9590.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "wood_9599.jpg": {
-        "src": "images/photos/wood_9599.jpg",
-        "mtime": 1646197845.0,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "Dominion box open",
-        "thumbnail": "images/thumbnails/wood_9599.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "wood_9641.jpg": {
-        "src": "images/photos/wood_9641.jpg",
-        "mtime": 1646197846.0,
-        "date": "",
-        "size": [
-            3024,
-            4032
-        ],
-        "type": "image",
-        "description": "Dominon boxes spine art",
-        "thumbnail": "images/thumbnails/wood_9641.jpg",
-        "thumbnail_size": [
-            120,
-            160
-        ]
-    },
-    "IMG_2450.jpg": {
-        "src": "images/photos/IMG_2450.jpg",
-        "mtime": 1646202214.0,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "Engraved metal business cards",
-        "thumbnail": "images/thumbnails/IMG_2450.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "IMG_2481.jpg": {
-        "src": "images/photos/IMG_2481.jpg",
-        "mtime": 1646448579.0,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "",
-        "thumbnail": "images/thumbnails/IMG_2481.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "IMG_1698.jpg": {
-        "src": "images/photos/IMG_1698.jpg",
-        "mtime": 1688438126.476887,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "Laser-cut gamepad",
-        "thumbnail": "images/thumbnails/IMG_1698.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
-    "IMG_2376.jpg": {
-        "src": "images/photos/IMG_2376.jpg",
-        "mtime": 1688438127.140025,
-        "date": "",
-        "size": [
-            4032,
-            3024
-        ],
-        "type": "image",
-        "description": "Laser-marked coins of brass, zinc, and copper",
-        "thumbnail": "images/thumbnails/IMG_2376.jpg",
-        "thumbnail_size": [
-            214,
-            160
-        ]
-    },
     "acrylic_0722.jpg": {
         "src": "images/photos/acrylic_0722.jpg",
-        "mtime": 1688438126.1138964,
+        "mtime": 1688438126.0,
         "date": "",
         "size": [
             4032,
@@ -817,7 +17,7 @@
     },
     "acrylic_0730.jpg": {
         "src": "images/photos/acrylic_0730.jpg",
-        "mtime": 1688438126.2053802,
+        "mtime": 1688438126.0,
         "date": "",
         "size": [
             4032,
@@ -833,7 +33,7 @@
     },
     "acrylic_1200.jpg": {
         "src": "images/photos/acrylic_1200.jpg",
-        "mtime": 1688438126.40369,
+        "mtime": 1688438126.0,
         "date": "",
         "size": [
             4032,
@@ -847,9 +47,25 @@
             160
         ]
     },
+    "acrylic_1763.jpeg": {
+        "src": "images/photos/acrylic_1763.jpeg",
+        "mtime": 1702150925.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Custom acrylic case for Adafruit Joybonnet.",
+        "thumbnail": "images/thumbnails/acrylic_1763.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
     "acrylic_2142.jpg": {
         "src": "images/photos/acrylic_2142.jpg",
-        "mtime": 1688438126.5416896,
+        "mtime": 1688438126.0,
         "date": "",
         "size": [
             4032,
@@ -865,7 +81,7 @@
     },
     "acrylic_2234.jpg": {
         "src": "images/photos/acrylic_2234.jpg",
-        "mtime": 1688438199.8088753,
+        "mtime": 1688438199.0,
         "date": "",
         "size": [
             3691,
@@ -881,7 +97,7 @@
     },
     "acrylic_2235.jpg": {
         "src": "images/photos/acrylic_2235.jpg",
-        "mtime": 1688438126.6429982,
+        "mtime": 1688438126.0,
         "date": "",
         "size": [
             3796,
@@ -897,7 +113,7 @@
     },
     "acrylic_2240.jpg": {
         "src": "images/photos/acrylic_2240.jpg",
-        "mtime": 1688438126.7180529,
+        "mtime": 1688438126.0,
         "date": "",
         "size": [
             4032,
@@ -913,7 +129,7 @@
     },
     "acrylic_2242.jpg": {
         "src": "images/photos/acrylic_2242.jpg",
-        "mtime": 1688438126.7873452,
+        "mtime": 1688438126.0,
         "date": "",
         "size": [
             4032,
@@ -929,7 +145,7 @@
     },
     "acrylic_2243.jpg": {
         "src": "images/photos/acrylic_2243.jpg",
-        "mtime": 1688438126.8781385,
+        "mtime": 1688438126.0,
         "date": "",
         "size": [
             4032,
@@ -943,9 +159,233 @@
             160
         ]
     },
+    "acrylic_2264.jpg": {
+        "src": "images/photos/acrylic_2264.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "A Nintendo Switch stand designed to look like a Nintendo Switch.",
+        "thumbnail": "images/thumbnails/acrylic_2264.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "acrylic_2322.jpg": {
+        "src": "images/photos/acrylic_2322.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            3024,
+            4032
+        ],
+        "type": "image",
+        "description": "A blue acrylic butterfly on a stand.",
+        "thumbnail": "images/thumbnails/acrylic_2322.jpg",
+        "thumbnail_size": [
+            120,
+            160
+        ]
+    },
+    "acrylic_2323.jpg": {
+        "src": "images/photos/acrylic_2323.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            3024,
+            4032
+        ],
+        "type": "image",
+        "description": "A pink acrylic butterfly on a stand.",
+        "thumbnail": "images/thumbnails/acrylic_2323.jpg",
+        "thumbnail_size": [
+            120,
+            160
+        ]
+    },
+    "acrylic_2369.jpg": {
+        "src": "images/photos/acrylic_2369.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            3024,
+            4032
+        ],
+        "type": "image",
+        "description": "A Legend of Zelda rupee made from pink translucent acrylic.",
+        "thumbnail": "images/thumbnails/acrylic_2369.jpg",
+        "thumbnail_size": [
+            120,
+            160
+        ]
+    },
+    "acrylic_2466.jpg": {
+        "src": "images/photos/acrylic_2466.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "A unicorn made from pink translucent acrylic.",
+        "thumbnail": "images/thumbnails/acrylic_2466.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "acrylic_2643.jpeg": {
+        "src": "images/photos/acrylic_2643.jpeg",
+        "mtime": 1702150925.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Engraved acrylic coin with bronze chroming.",
+        "thumbnail": "images/thumbnails/acrylic_2643.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "acrylic_2648.jpeg": {
+        "src": "images/photos/acrylic_2648.jpeg",
+        "mtime": 1702150925.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Engraved acrylic coin with chroming.",
+        "thumbnail": "images/thumbnails/acrylic_2648.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "acrylic_2948.jpeg": {
+        "src": "images/photos/acrylic_2948.jpeg",
+        "mtime": 1702150926.0,
+        "date": "",
+        "size": [
+            3779,
+            2834
+        ],
+        "type": "image",
+        "description": "Acrylic samples.",
+        "thumbnail": "images/thumbnails/acrylic_2948.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "acrylic_3001.jpeg": {
+        "src": "images/photos/acrylic_3001.jpeg",
+        "mtime": 1702150926.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Glitter acrylic deck box for Pok\u00e9mon cards.",
+        "thumbnail": "images/thumbnails/acrylic_3001.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "acrylic_3014.jpeg": {
+        "src": "images/photos/acrylic_3014.jpeg",
+        "mtime": 1702150926.0,
+        "date": "",
+        "size": [
+            3024,
+            4032
+        ],
+        "type": "image",
+        "description": "Personalized acrylic necklace.",
+        "thumbnail": "images/thumbnails/acrylic_3014.jpg",
+        "thumbnail_size": [
+            120,
+            160
+        ]
+    },
+    "acrylic_3040.jpeg": {
+        "src": "images/photos/acrylic_3040.jpeg",
+        "mtime": 1702150926.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Acrylic display case.",
+        "thumbnail": "images/thumbnails/acrylic_3040.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "acrylic_7530.jpg": {
+        "src": "images/photos/acrylic_7530.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            3024,
+            4032
+        ],
+        "type": "image",
+        "description": "A tie holder made of acrylic. Holds up to 12 ties.",
+        "thumbnail": "images/thumbnails/acrylic_7530.jpg",
+        "thumbnail_size": [
+            120,
+            160
+        ]
+    },
+    "acrylic_9393.jpg": {
+        "src": "images/photos/acrylic_9393.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "A Nintendo Switch stand designed to look like a Nintendo Switch.",
+        "thumbnail": "images/thumbnails/acrylic_9393.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "leather_0346.jpg": {
+        "src": "images/photos/leather_0346.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "A personalized phone case and wallet.",
+        "thumbnail": "images/thumbnails/leather_0346.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
     "leather_2394.jpg": {
         "src": "images/photos/leather_2394.jpg",
-        "mtime": 1688438127.2701347,
+        "mtime": 1688438127.0,
         "date": "",
         "size": [
             4032,
@@ -959,9 +399,345 @@
             160
         ]
     },
+    "leather_6807.jpg": {
+        "src": "images/photos/leather_6807.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "A laser-cut leather wallet.",
+        "thumbnail": "images/thumbnails/leather_6807.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "leather_6808.jpg": {
+        "src": "images/photos/leather_6808.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            3024,
+            4032
+        ],
+        "type": "image",
+        "description": "A leather drawstring bag inspired by the Legend of Zelda.",
+        "thumbnail": "images/thumbnails/leather_6808.jpg",
+        "thumbnail_size": [
+            120,
+            160
+        ]
+    },
+    "leather_6810.jpg": {
+        "src": "images/photos/leather_6810.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            3024,
+            4032
+        ],
+        "type": "image",
+        "description": "A laser-cut leather wallet.",
+        "thumbnail": "images/thumbnails/leather_6810.jpg",
+        "thumbnail_size": [
+            120,
+            160
+        ]
+    },
+    "mixed_1698.jpg": {
+        "src": "images/photos/mixed_1698.jpg",
+        "mtime": 1688438126.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "A laser-cut gamepad built using a Raspberry Pi and a custom circuit board.",
+        "thumbnail": "images/thumbnails/mixed_1698.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "mixed_2160.jpg": {
+        "src": "images/photos/mixed_2160.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            3024,
+            4032
+        ],
+        "type": "image",
+        "description": "A small, hexagonal base for displaying amiibo figurines. ",
+        "thumbnail": "images/thumbnails/mixed_2160.jpg",
+        "thumbnail_size": [
+            120,
+            160
+        ]
+    },
+    "mixed_2163.jpg": {
+        "src": "images/photos/mixed_2163.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            3024,
+            4032
+        ],
+        "type": "image",
+        "description": "A base for displaying amiibo figurines. ",
+        "thumbnail": "images/thumbnails/mixed_2163.jpg",
+        "thumbnail_size": [
+            120,
+            160
+        ]
+    },
+    "mixed_3070.jpeg": {
+        "src": "images/photos/mixed_3070.jpeg",
+        "mtime": 1702150926.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Custom sign for annual pie night.",
+        "thumbnail": "images/thumbnails/mixed_3070.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "mixed_8151.jpg": {
+        "src": "images/photos/mixed_8151.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            3024,
+            4032
+        ],
+        "type": "image",
+        "description": "A Christmas ornament made of cherry wood and frosted acrylic.",
+        "thumbnail": "images/thumbnails/mixed_8151.jpg",
+        "thumbnail_size": [
+            120,
+            160
+        ]
+    },
+    "mixed_8983.jpg": {
+        "src": "images/photos/mixed_8983.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "A personalized napkin holder made of walnut and frosted acrylic. ",
+        "thumbnail": "images/thumbnails/mixed_8983.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "mixed_9497.jpg": {
+        "src": "images/photos/mixed_9497.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "A paintbrush stand made of walnut and frosted acrylic.",
+        "thumbnail": "images/thumbnails/mixed_9497.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "mixed_9498.jpg": {
+        "src": "images/photos/mixed_9498.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            3024,
+            4032
+        ],
+        "type": "image",
+        "description": "A paintbrush stand made of walnut and frosted acrylic.",
+        "thumbnail": "images/thumbnails/mixed_9498.jpg",
+        "thumbnail_size": [
+            120,
+            160
+        ]
+    },
+    "other_2376.jpg": {
+        "src": "images/photos/other_2376.jpg",
+        "mtime": 1688438127.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Laser-marked challenge coins made of brass (left), zinc (middle), and copper (right).",
+        "thumbnail": "images/thumbnails/other_2376.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "other_2450.jpg": {
+        "src": "images/photos/other_2450.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Laser-engraved metal business cards.",
+        "thumbnail": "images/thumbnails/other_2450.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "other_2481.jpg": {
+        "src": "images/photos/other_2481.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "A felt page from a children\u2019s quiet book.",
+        "thumbnail": "images/thumbnails/other_2481.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "paper_1564.jpg": {
+        "src": "images/photos/paper_1564.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "A bedroom door name sign made from laser-cut cardboard. ",
+        "thumbnail": "images/thumbnails/paper_1564.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "paper_1574.jpg": {
+        "src": "images/photos/paper_1574.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            3024,
+            4032
+        ],
+        "type": "image",
+        "description": "A do-no-disturb sign made from cardstock.\n",
+        "thumbnail": "images/thumbnails/paper_1574.jpg",
+        "thumbnail_size": [
+            120,
+            160
+        ]
+    },
+    "paper_2020.jpg": {
+        "src": "images/photos/paper_2020.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "A greeting card with geometric patterns made of cardstock.",
+        "thumbnail": "images/thumbnails/paper_2020.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "paper_2021.jpg": {
+        "src": "images/photos/paper_2021.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "A greeting card with geometric patterns made of cardstock.",
+        "thumbnail": "images/thumbnails/paper_2021.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "paper_2486.jpg": {
+        "src": "images/photos/paper_2486.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Immitation movie tickets made from cardstock.",
+        "thumbnail": "images/thumbnails/paper_2486.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "paper_3012.jpeg": {
+        "src": "images/photos/paper_3012.jpeg",
+        "mtime": 1702150926.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Coupon book for my kids to learn some skills.",
+        "thumbnail": "images/thumbnails/paper_3012.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "paper_9121.jpg": {
+        "src": "images/photos/paper_9121.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Shadow puppets made from cardstock.",
+        "thumbnail": "images/thumbnails/paper_9121.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
     "wood_0472.jpg": {
         "src": "images/photos/wood_0472.jpg",
-        "mtime": 1688438126.0098667,
+        "mtime": 1688438126.0,
         "date": "",
         "size": [
             4032,
@@ -977,7 +753,7 @@
     },
     "wood_0968.jpg": {
         "src": "images/photos/wood_0968.jpg",
-        "mtime": 1688438126.2971685,
+        "mtime": 1688438126.0,
         "date": "",
         "size": [
             4032,
@@ -991,9 +767,73 @@
             160
         ]
     },
+    "wood_1567.jpg": {
+        "src": "images/photos/wood_1567.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "An escutcheon circular slide rule ornamenting the Glowforge start button.",
+        "thumbnail": "images/thumbnails/wood_1567.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "wood_1571.jpg": {
+        "src": "images/photos/wood_1571.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "A semi-circular display riser with amiibo.",
+        "thumbnail": "images/thumbnails/wood_1571.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "wood_1572.jpg": {
+        "src": "images/photos/wood_1572.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "A small display riser with amiibo.",
+        "thumbnail": "images/thumbnails/wood_1572.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "wood_2267.jpg": {
+        "src": "images/photos/wood_2267.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "An earbud holder designed to look like a Nintendo Switch.",
+        "thumbnail": "images/thumbnails/wood_2267.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
     "wood_2278.jpg": {
         "src": "images/photos/wood_2278.jpg",
-        "mtime": 1688438126.971248,
+        "mtime": 1688438126.0,
         "date": "",
         "size": [
             4032,
@@ -1009,7 +849,7 @@
     },
     "wood_2279.jpg": {
         "src": "images/photos/wood_2279.jpg",
-        "mtime": 1688438127.0517592,
+        "mtime": 1688438127.0,
         "date": "",
         "size": [
             4032,
@@ -1025,7 +865,7 @@
     },
     "wood_2390.jpg": {
         "src": "images/photos/wood_2390.jpg",
-        "mtime": 1688438127.2132726,
+        "mtime": 1688438127.0,
         "date": "",
         "size": [
             4032,
@@ -1041,7 +881,7 @@
     },
     "wood_2400.jpg": {
         "src": "images/photos/wood_2400.jpg",
-        "mtime": 1688438127.3445294,
+        "mtime": 1688438127.0,
         "date": "",
         "size": [
             4032,
@@ -1052,6 +892,358 @@
         "thumbnail": "images/thumbnails/wood_2400.jpg",
         "thumbnail_size": [
             214,
+            160
+        ]
+    },
+    "wood_2480.jpg": {
+        "src": "images/photos/wood_2480.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "A six-inch model dinosaur.",
+        "thumbnail": "images/thumbnails/wood_2480.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "wood_2702.jpg": {
+        "src": "images/photos/wood_2702.jpg",
+        "mtime": 1702151127.0,
+        "date": "",
+        "size": [
+            2693,
+            3591
+        ],
+        "type": "image",
+        "description": "Personalized wedding gift with poem.",
+        "thumbnail": "images/thumbnails/wood_2702.jpg",
+        "thumbnail_size": [
+            120,
+            160
+        ]
+    },
+    "wood_2840.jpg": {
+        "src": "images/photos/wood_2840.jpg",
+        "mtime": 1702151228.0,
+        "date": "",
+        "size": [
+            3024,
+            4032
+        ],
+        "type": "image",
+        "description": "Personalized baptism gift with poem.",
+        "thumbnail": "images/thumbnails/wood_2840.jpg",
+        "thumbnail_size": [
+            120,
+            160
+        ]
+    },
+    "wood_3087.jpg": {
+        "src": "images/photos/wood_3087.jpg",
+        "mtime": 1702151576.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Family calendar of birthdays and anniversaries.",
+        "thumbnail": "images/thumbnails/wood_3087.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "wood_6631.jpg": {
+        "src": "images/photos/wood_6631.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "A laser-cut box with Legend of Zelda artwork engraved on the sides.",
+        "thumbnail": "images/thumbnails/wood_6631.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "wood_6649.jpg": {
+        "src": "images/photos/wood_6649.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "A plan of salvation plaque.",
+        "thumbnail": "images/thumbnails/wood_6649.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "wood_7279.jpg": {
+        "src": "images/photos/wood_7279.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "A laser-cut plaque for use with amiibo.",
+        "thumbnail": "images/thumbnails/wood_7279.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "wood_7663.jpg": {
+        "src": "images/photos/wood_7663.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Laser-cut coins with video game characters engraved on them.",
+        "thumbnail": "images/thumbnails/wood_7663.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "wood_8132.jpg": {
+        "src": "images/photos/wood_8132.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "A single-hand book holder with Cosmere artwork engraved.",
+        "thumbnail": "images/thumbnails/wood_8132.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "wood_8242.jpg": {
+        "src": "images/photos/wood_8242.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            3024,
+            4032
+        ],
+        "type": "image",
+        "description": "A nativity Christmas ornament.",
+        "thumbnail": "images/thumbnails/wood_8242.jpg",
+        "thumbnail_size": [
+            120,
+            160
+        ]
+    },
+    "wood_8278.jpg": {
+        "src": "images/photos/wood_8278.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            3024,
+            4032
+        ],
+        "type": "image",
+        "description": "A model of the space ship Discovery.",
+        "thumbnail": "images/thumbnails/wood_8278.jpg",
+        "thumbnail_size": [
+            120,
+            160
+        ]
+    },
+    "wood_8286.jpg": {
+        "src": "images/photos/wood_8286.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "A model of the space ship Discovery. The parts of a second model are beside it.",
+        "thumbnail": "images/thumbnails/wood_8286.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "wood_8339.jpg": {
+        "src": "images/photos/wood_8339.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Decorative pencil holder.",
+        "thumbnail": "images/thumbnails/wood_8339.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "wood_8898.jpg": {
+        "src": "images/photos/wood_8898.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Drawing stencil for kids.",
+        "thumbnail": "images/thumbnails/wood_8898.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "wood_8899.jpg": {
+        "src": "images/photos/wood_8899.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Drawing stencil for kids with drawing.",
+        "thumbnail": "images/thumbnails/wood_8899.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "wood_9092.jpg": {
+        "src": "images/photos/wood_9092.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Box for holding several boxes of playing cards.",
+        "thumbnail": "images/thumbnails/wood_9092.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "wood_9093.jpg": {
+        "src": "images/photos/wood_9093.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Box for holding several boxes of playing cards.",
+        "thumbnail": "images/thumbnails/wood_9093.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "wood_9533.jpg": {
+        "src": "images/photos/wood_9533.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "A tray for holding Dominion game tokens.",
+        "thumbnail": "images/thumbnails/wood_9533.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "wood_9534.jpg": {
+        "src": "images/photos/wood_9534.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "A tray for holding Dominion game tokens.",
+        "thumbnail": "images/thumbnails/wood_9534.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "wood_9590.jpg": {
+        "src": "images/photos/wood_9590.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Custom box for holding Domnion game cards.",
+        "thumbnail": "images/thumbnails/wood_9590.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "wood_9599.jpg": {
+        "src": "images/photos/wood_9599.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "Custom box for holding Domnion game cards.",
+        "thumbnail": "images/thumbnails/wood_9599.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "wood_9641.jpg": {
+        "src": "images/photos/wood_9641.jpg",
+        "mtime": 1688438304.0,
+        "date": "",
+        "size": [
+            3024,
+            4032
+        ],
+        "type": "image",
+        "description": "Custom boxes for holding Domnion game cards.",
+        "thumbnail": "images/thumbnails/wood_9641.jpg",
+        "thumbnail_size": [
+            120,
             160
         ]
     }
